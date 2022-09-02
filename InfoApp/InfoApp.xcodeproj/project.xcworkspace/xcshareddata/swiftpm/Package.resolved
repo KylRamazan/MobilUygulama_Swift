@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUICharts",
+        "repositoryURL": "https://github.com/AppPear/ChartView",
+        "state": {
+          "branch": null,
+          "revision": "9115a992c91fa19cbb4f2241084240d38654a1fc",
+          "version": "1.5.5"
+        }
+      },
+      {
+        "package": "InputBarAccessoryView",
+        "repositoryURL": "https://github.com/nathantannar4/InputBarAccessoryView",
+        "state": {
+          "branch": null,
+          "revision": "f5e21ad31f7e747ae08eae91b6fc6d2348bb750d",
+          "version": "5.3.1"
+        }
+      },
+      {
+        "package": "MessageKit",
+        "repositoryURL": "https://github.com/MessageKit/MessageKit",
+        "state": {
+          "branch": null,
+          "revision": "7ec2a9680af3af0eee06d503362f48ef79374db1",
+          "version": "3.6.1"
+        }
+      },
+      {
+        "package": "Toaster",
+        "repositoryURL": "https://github.com/devxoul/Toaster.git",
+        "state": {
+          "branch": "master",
+          "revision": "e9e62c023ef37719b6b6939ed26a99f577a3d88f",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
